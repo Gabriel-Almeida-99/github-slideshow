@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+The only battle that is lost, is the battle that gives up!
 Use the left arrow to go back!
